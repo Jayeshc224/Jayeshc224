@@ -1,7 +1,6 @@
-👋 Hi, I'm Jayesh!
-👩🏻‍💻 Software Engineer student in tech
-👩🏻‍🎓 Studied Information Systems at NorthEastern University, Boston
-🌷 #learninginpublic in my digital garden
+👋 Hi, I'm Jayesh! <br>
+👩🏻‍💻 Software Engineer student in tech <br>
+👩🏻‍🎓 Studied Information Systems at NorthEastern University, Boston <br>
 💭 Curious about data!
 
 
