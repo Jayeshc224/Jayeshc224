@@ -21,8 +21,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jayeshc224&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jayeshc224&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Jayeshc224&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jayeshc224&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshc224&exclude_repo=&langs_count=10&hide=jupyter%20notebook&theme=dark&layout=compact&hide_border=false)
 
 ### ✍️ Random Dev Quote
